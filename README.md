@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shynmmrr
-- 👀 I’m interested in flutter && linux && trading in forex factory
+- 👀 I’m interested in flutter && linux && trading at forex factory 
 - 🌱 I’m currently learning German and English 
 - 💞️ I’m looking to collaborate on flutter project 
 - 📫 How to reach me
