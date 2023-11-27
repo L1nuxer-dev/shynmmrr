@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning German and English 
 - 💞️ I’m looking to collaborate on flutter project 
 - 📫 How to reach me
-- instagram : shynmmr_dev
+- instagram : https://www.instagram.com/shynmmr_dev/
 - email address : shynmmr@gmail.com
 - 
 
